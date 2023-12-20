@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0UrThevdNPaOXNNFOhGsZTJO6WhGeG5Bu4bIZ+RKJPUgGNL/3szCuHo8r8Yngu+zWmTu6ICLX5UhZ8Y23UKdrw==",
+  "success": true,
+  "projectFilePath": "/home/bsgserver2/SimpleTcpServer/SimpleTcpServer.csproj",
+  "expectedPackageFiles": [
+    "/home/bsgserver2/.nuget/packages/caching.dll/1.4.0.1/caching.dll.1.4.0.1.nupkg.sha512",
+    "/home/bsgserver2/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/bsgserver2/.nuget/packages/simpleudp/1.2.1/simpleudp.1.2.1.nupkg.sha512",
+    "/home/bsgserver2/.nuget/packages/supersimpletcp/3.0.13/supersimpletcp.3.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
